@@ -25,7 +25,7 @@
 
 
 ### 🛠 核心技能
-智能合约：Solidity（精通），熟悉GAS优化技巧，熟悉ABI编码规则，熟悉EVM原理，熟悉合约升级UUPS / Transparent / Beacon Proxy 模式设计与实施
+智能合约：Solidity（精通），熟悉GAS优化技巧，熟悉ABI编码规则，熟悉EVM储存原理，熟悉合约升级UUPS / Transparent / Beacon Proxy 模式设计与实施
 
 开发框架：Foundry、Remix、OpenZeppelin Contracts
 
